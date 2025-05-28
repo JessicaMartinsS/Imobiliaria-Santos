@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: tahoma;
+}
+div{
+    padding-top: 30px;
+    padding-bottom:30px;
+    text-align: center;
+}
+p{
+    margin: 10px auto 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    
+}
+.div-color{
+    background-color:#afddfb;
+}
+.div-color-servico{
+    background-color:#1d80c1;
+}
+.img-logo{
+    width: 150px;   
+}
+.link-logo {
+    padding: 10px;
+    text-align: center;
+    color:#1d1d1d;
+    text-decoration: none;
+    border-bottom: 1.5px solid #1d1d1d;
+    width: 10px;
+
+}
+.banner{
+    margin-top: 50px;
+    padding: 0;
+}
+.span-amarelo{
+    font-weight: bold;
+    color:#fff81b;
+}
+.span-azul{
+    font-weight: bold;
+    color:#1c81c0;
+}
+h1{
+    color: #1d1d1d;
+    padding-top: 5px;
+}
+.subtitulo{
+    color: #1c81c0;
+    padding-top: 0;
+    font-weight: normal;
+}
+.subtitulo-servico{
+    color:#ffffff;
+    padding-top: 0;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 42px;
+}
+.paragrafo-servico{
+    color: #ffffff;
+    font-size: 22px;
+    line-height: 42px;
+    text-align: center;
+    width: 700px;
+}
+.img-assinatura{
+    width: 450px;
+}
+ul{
+    margin: 40px auto 40px auto;
+    width: 135px;
+}
+li{
+  color:#ffffff;
+  line-height: 42px;
+  text-align: left; 
+  font-size: 22px;
+}
+.paragrafo-contato{
+    background-color: #1d1d1d;
+    color: #ffffff;
+    padding: 15px;
+    margin-top: 30px auto 30px auto;
+    text-align: center;
+}
+.link-lista{
+    text-decoration: none;
+}
+ol{
+    margin: 40px auto 40px auto;
+    font-size: 18px;
+    width: 300px;
+}
+.lista-escritorio{
+    background-color: #ffffff;
+    color: #1c81c0;
+    padding: 2px 5px 2px 5px;
+    margin-top: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
